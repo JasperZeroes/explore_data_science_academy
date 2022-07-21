@@ -1,2 +1,1 @@
-# explore_data_science_academy
-Data science projects as an EXPLORER  
+Data Visualisation, Python, SQL, Advanced Regression, Advanced Classification and Unsupervised Learning
